@@ -1,0 +1,85 @@
+/* src/App.css */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #121212; /* Темный фон */
+  color: #ffffff; /* Светлый текст */
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+section {
+  margin: 20px 0;
+  padding: 20px;
+  background: #1e1e1e; /* Темный фон для секций */
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+  color: #ffffff; /* Светлый заголовок */
+}
+
+a {
+  color: #bb86fc; /* Цвет ссылок */
+  text-decoration: none; /* Убираем подчеркивание */
+}
+
+a:hover {
+  text-decoration: underline; /* Подчеркивание при наведении */
+}
+
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+}
+
+.name {
+  font-size: 22px;
+  font: bold;
+}
+
+
+.aboutText { 
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  
+}
+
+.music,
+.developer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #121212;
+  margin: 20px;
+  border-radius: 15px;
+}
+
+.aboutText {
+  margin-bottom: 20px; /* Отступы для текста */
+}
+
+.divider {
+  height: 2px; /* Высота полосы */
+  background-color: #ffffff; /* Белый цвет */
+ margin-top: 40px; /* Отступы сверху и снизу */
+}
+
+.musicText {
+  padding: 10px;
+}
+
+.websiteText{
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+}

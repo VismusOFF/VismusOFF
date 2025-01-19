@@ -1,0 +1,57 @@
+.yotube {
+    background-image: url("../assets/youtube-svgrepo-com1.svg");
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    opacity: 0.5;
+    transition: 200ms ease-in-out;
+}
+
+.spotify {
+    background-image: url("../assets/spotify-color-svgrepo-com.svg");
+    width: 90px;
+    height: 90px;
+    background-size: cover;
+    background-color: white;
+    border-radius: 50%;
+    opacity: 0.5;
+    transition: 200ms ease-in-out;
+}
+
+.yandex {
+    background-image: url("../assets/yandex.svg");
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    opacity: 0.5;
+    transition: 200ms ease-in-out;
+}
+
+.vk {
+    background-image: url("../assets/vk-svgrepo-com.svg");
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    border-radius: 50%;
+    opacity: 0.5;
+    transition: 200ms ease-in-out;
+}
+
+.zvuk {
+    background-image: url("../assets/zvuk.svg");
+    width: 95px;
+    height: 95px;
+    background-size: cover;
+    opacity: 0.5;
+    transition: 200ms ease-in-out;
+}
+
+.vk:hover,
+.yandex:hover,
+.spotify:hover,
+.yotube:hover,
+.zvuk:hover {
+    transition: 200ms ease-in-out;
+    transform: scale(1.1);
+    opacity: 1;
+}

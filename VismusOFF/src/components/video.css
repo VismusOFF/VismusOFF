@@ -1,0 +1,39 @@
+.karedis {
+    width: 300px;
+    height: 300px;
+    border-radius: 35px;
+    background-image: url('../assets/KAREDIS.jpg');
+    background-size: cover;
+}
+
+.musicContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.wareson {
+    width: 300px;
+    height: 300px;
+    border-radius: 35px;
+    background-image: url('../assets/wareson.jpg');
+    background-size: cover;
+}
+
+.papy {
+    width: 300px;
+    height: 300px;
+    border-radius: 35px;
+    background-image: url('../assets/PAPU.jpg');
+    background-size: cover;
+}
+
+.vochkume {
+    width: 300px;
+    height: 300px;
+    border-radius: 35px;
+    background-image: url('../assets/Vochkume.jpg');
+    background-size: cover;
+}
