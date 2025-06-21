@@ -12,6 +12,7 @@ const Developer = () => {
                     <a href="https://respirator.netlify.app/"> Вторая практика</a>
                     <a href="https://crudapp-dc3d.onrender.com/">Третья практика</a>
                     <a href="https://mdkcrudapp.netlify.app/">Практическая по мобильной разработке</a>
+                    <a href='https://mdkwork.netlify.app/'>Курсовая 4 курс</a>
                     <a href="https://technodinamica.netlify.app/">Дипломная работа</a>
                 </div>
                 <h2>Заказы</h2>
