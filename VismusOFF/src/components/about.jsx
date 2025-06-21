@@ -7,11 +7,11 @@ const About = () => {
             <h2>Обо мне</h2>
             <div className='aboutText'>
                 <div className='name'>Имя: Жигач Дмитрий Никитович</div>
-                <div>Профессия: студент 4 курса промышленно-экономического колледжа</div>
+                <div>Профессия: программист</div>
                 <div>Чем занимаюсь: пишу музыку и разрабатываю сайты</div>
                 <div>Возраст: 20 лет</div>
                 <div>Образование: получил 9 классов образования в МОУ СОШ №2</div>
-                <div>Навыки: HTML, CSS, REACT, PHOTOSHOP, CAPCUT, FLSTUDIO, FIGMA, PIXSO </div>
+                <div>Навыки: HTML, CSS, REACT, PHOTOSHOP, CAPCUT, FLSTUDIO, FIGMA, PIXSO, Firebase, MUI, ReactRouterDom, ReactDataTableComponent, Netlify, Electron, Vite </div>
                 <div className='divider'></div> {/* Добавленный разделитель */}
             </div>
             <div className='container'>
