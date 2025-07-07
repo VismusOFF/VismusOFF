@@ -19,11 +19,11 @@ const Developer = () => {
                 <div className='websiteText'>
                     <a href="https://pavlovsliyposad.netlify.app/"> Курсовая 3 курс</a>
                     <a href="https://respiratortime.netlify.app/"> Дипломная работа</a>
+                    <a href="https://voltageauto.netlify.app/"> OOO VOLTI</a>
+                    <a href='https://o-bank.netlify.app/'> Курсовая 4 курс</a>
+                    <a href='https://shinomontazhka.netlify.app/'> Практика 4 курс</a>
                 </div>
                 <h2>В разработке</h2>
-                <div className='websiteText'>
-                    <a href="https://voltageauto.netlify.app/"> Сайт для грузинской автомастерской</a>
-                </div>
             </div>
         </section>
     );
